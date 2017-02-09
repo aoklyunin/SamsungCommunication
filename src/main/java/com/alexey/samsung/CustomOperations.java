@@ -169,25 +169,28 @@ public class CustomOperations {
             Thread.sleep(1000);
             //webSelenium.copyQuestion("558,1");
             String arr[] = {
-                    "122,1"
+                    "1760,33",
+                    "1760,33",
             };
             String arr2[] = {
                     "111,1",
                     "22,1"};
 
-            System.out.println("yyeee");
+
             for (String a : arr) {
+                System.out.println(a);
                 webSelenium.copyQuestion(a, s -> true);
                 Thread.sleep(100);
-                webSelenium.moveCopiedQuestions(a, "1120,33", (n) -> n % 2 == 0);
-                Thread.sleep(100);
+               // webSelenium.moveCopiedQuestions(a, "4,1", (n) -> n % 2 == 0);
+                //Thread.sleep(100);
             }
+            /*
             for (String a : arr2) {
                 webSelenium.copyQuestion(a, s -> true);
                 Thread.sleep(100);
                 webSelenium.moveCopiedQuestions(a, "1498,33", (n) -> n % 2 == 0);
                 Thread.sleep(100);
-            }
+            }*/
 
         }
     }

@@ -65,6 +65,12 @@ public class Main extends Application {
             e.printStackTrace();
         }*/
 
+        try {
+            CustomOperations.copyQuestions();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
     }
 
 

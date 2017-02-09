@@ -467,7 +467,8 @@ public class WebSelenium implements AutoCloseable {
 
     public void moveCopiedQuestions(String from, String to, IntPredicate ip) throws InterruptedException {
         // выбираем, куда будем переносить
-        driver.get("http://mdl.sch239.net/question/edit.php?courseid=44&cat=558%2C1&qpage=0&recurse=1&showhidden=1&qbshowtext=0");
+       driver.get("http://mdl.sch239.net/question/edit.php?courseid=44&cat=558%2C1&qpage=0&recurse=1&showhidden=1&qbshowtext=0");
+       // driver.get("http://mdl.sch239.net/question/edit.php?cmid=1015&cat=4%2C1&qpage=0&cmid=1015&cat=4%2C1&qpage=0&recurse=1&showhidden=1&qbshowtext=0&category=631%2C428&qbshowtext=0&recurse=0&recurse=1&showhidden=0&showhidden=1");
 
         Thread.sleep(100);
         // выбираем, откуда будем переносить
@@ -636,6 +637,7 @@ public class WebSelenium implements AutoCloseable {
     // qName - value соответствуещего пункта select'a
     public void copyQuestion(String qName, Predicate<String> ps) throws InterruptedException {
         driver.get("http://mdl.sch239.net/question/edit.php?courseid=44&cat=558%2C1&qpage=0&recurse=1&showhidden=1&qbshowtext=0");
+       // driver.get("http://mdl.sch239.net/question/edit.php?cmid=1015&cat=4%2C1&qpage=0&cmid=1015&cat=4%2C1&qpage=0&recurse=1&showhidden=1&qbshowtext=0&category=631%2C428&qbshowtext=0&recurse=0&recurse=1&showhidden=0&showhidden=1");
         WebElement qselectElem = driver.findElement(By.tagName("select"));
         Select qselect = new Select(qselectElem);
         qselect.selectByValue(qName);

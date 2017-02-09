@@ -131,7 +131,7 @@ public class MainController {
         });
         startDP.setValue(LocalDate.of(2016, Month.SEPTEMBER, 1));
         endDP.setValue(LocalDate.now());
-        try (DBHelper dbHelper = new DBHelper()) {
+        /*try (DBHelper dbHelper = new DBHelper()) {
             dbHelper.connect();
             ArrayList<Task> tasks = dbHelper.getTasks(Date.valueOf(startDP.getValue()),
                     Date.valueOf(endDP.getValue()));
@@ -144,7 +144,7 @@ public class MainController {
             essay_task.setItems(data);
         } catch (Exception e) {
             e.printStackTrace();
-        }
+        }*/
 
         essay.addEventHandler(MouseEvent.MOUSE_CLICKED, new EventHandler<MouseEvent>() {
             @Override
