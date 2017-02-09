@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="ap" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="948.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.alexey.samsung.controller.MainController">
+   <children>
+      <SplitPane fx:id="sp" dividerPositions="0.7462311557788944" orientation="VERTICAL" prefHeight="300.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <items>
+          <AnchorPane fx:id="apsp" minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <TableView fx:id="attemptTable" prefHeight="256.0" prefWidth="944.0" />
+               </children>
+            </AnchorPane>
+          <AnchorPane fx:id="apsp2" minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <Button fx:id="all_essay" layoutX="890.0" layoutY="57.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="42.0" text="All" />
+                  <ChoiceBox fx:id="essay_task" layoutX="728.0" layoutY="57.0" prefWidth="150.0" />
+                  <Button fx:id="button" layoutX="593.0" layoutY="23.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="170.0" text="Добавить задание" />
+                  <Button fx:id="vkButton" layoutX="775.0" layoutY="23.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="80.0" text="VK" />
+                  <DatePicker fx:id="startDP" layoutX="114.0" layoutY="24.0" />
+                  <DatePicker fx:id="endDP" layoutX="360.0" layoutY="24.0" />
+                  <Text layoutX="34.0" layoutY="42.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Начиная с" />
+                  <Text layoutX="330.0" layoutY="41.0" strokeType="OUTSIDE" strokeWidth="0.0" text="до" />
+                  <CheckBox fx:id="group1enable" layoutX="150.0" layoutY="70.0" mnemonicParsing="false" text="Первая группа" />
+                  <CheckBox fx:id="group2enable" layoutX="298.0" layoutY="70.0" mnemonicParsing="false" text="Вторая группа" />
+                  <Button fx:id="showBtn" layoutX="34.0" layoutY="66.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="97.0" text="Показать" />
+                   <Button fx:id="essay" layoutX="638.0" layoutY="57.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="80.0" text="Эссе" />
+                  <Button fx:id="loadAttempts" layoutX="433.0" layoutY="57.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="170.0" text="Загрузить попытки" />
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>

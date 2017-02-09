@@ -1,0 +1,390 @@
+|Бей Святослав
+
+--------------------------------
+1
+--------------------------------
+\section{1} https://drive.google.com/open?id=0B8vqgf4L2SD6S3c0TWVpSmctak0  \section{2}     ссылка: https://drive.google.com/open?id=0B8vqgf4L2SD6TElNWXlTZkxVOFU        \section{3}     ссылка: https://drive.google.com/open?id=0B8vqgf4L2SD6UEl4OVdXM3M4TFk
+
+|Берхман Евгений
+
+--------------------------------
+1
+--------------------------------
+Ссылка на все 3 задачи (в одном файле):  https://drive.google.com/open?id=0B6RLzUNVH62lakdLTW85WmJHdDQ
+
+|Ведь Олеся
+
+--------------------------------
+1
+--------------------------------
+https://drive.google.com/file/d/0B9EctFJUHQoqbkc3QXFhUlVfM28/view?usp=sharing      https://drive.google.com/file/d/0B9EctFJUHQoqeTBIRmZZMjZSdEU/view?usp=sharing      https://drive.google.com/file/d/0B9EctFJUHQoqaW1FYUV6UktmazQ/view?usp=sharing
+
+|Винникова Анна
+
+--------------------------------
+1
+--------------------------------
+Пример 1 ссылка на документ:   https://drive.google.com/open?id=0BwBDEKH2MHjNSmFRTThSUXB2S28                      
+\section{1}
+$\begin{pmatrix}
+1 & 2 \\
+3 & 4
+\end{pmatrix}+2\begin{pmatrix}
+7 & -2 \\
+9 & 5
+\end{pmatrix}-\begin{pmatrix}
+5 & 7 \\
+8 & 1
+\end{pmatrix}=\begin{pmatrix}
+1 & 2 \\
+3 & 4
+\end{pmatrix}+\begin{pmatrix}
+14 & -4 \\
+18 & 10
+\end{pmatrix}-\begin{pmatrix}
+5 & 7 \\
+8 & 1
+\end{pmatrix}=\begin{pmatrix}
+15 & -2 \\
+21 & 14
+\end{pmatrix}-\begin{pmatrix}
+5 & 7 \\
+8 & 1
+\end{pmatrix}=\begin{pmatrix}
+10 & -9 \\
+13 & 13
+\end{pmatrix}$ 
+
+\end{document}                                                                                                                                                                           Пример 2 ссылка на документ: https://drive.google.com/open?id=0BwBDEKH2MHjNQWlTUHRscUVGTFE                        
+\section{2}
+$0.5\begin{pmatrix}
+2 & \Theta & 5 \\
+7 & \alpha & 1 \\
+6 & 3 & 2
+\end{pmatrix}$-$\begin{pmatrix}
+-5 & \alpha & 7 \\
+8 & 3 & 2 \\
+1 & 4 & 1
+\end{pmatrix}$+$\begin{pmatrix}
+1 & 8 & 7 \\
+\Theta & \beta & -7 \\
+\gamma_{1} & 1 & 5
+\end{pmatrix}$=$\begin{pmatrix}
+1 & 0.5\Theta & 2.5 \\
+3.5 & 0.5 \alpha & 0.5 \\
+3 & 1.5 & 1
+\end{pmatrix}$+$\begin{pmatrix}
+6 & 8-\alpha & 0 \\
+\Theta-8 & \beta-3 & -9 \\
+\gamma_{1}-1 & -3 & 4
+\end{pmatrix}$=
+$\begin{pmatrix}
+7& 0.5\Theta+8-\alpha & 2.5 \\
+\Theta-4.5 & 0.5\alpha+\beta-3 & -8.5 \\
+2-\gamma_{1} & -1.5 & -3
+\end{pmatrix}$
+
+\end{document}                                                                                                                                                                          Пример 3 ссылка на документ:   https://drive.google.com/open?id=0BwBDEKH2MHjNZUJJT3FoSkJfZlE                           
+\section{3}
+$-5\begin{pmatrix}
+-\beta & \alpha_{1} & 7 \\
+2 & 4 & 12 \\
+7 & 5 & 1
+\end{pmatrix}$-$\begin{pmatrix}
+1 & \gamma_{1} & 7 \\
+7 & 5 & -5 \\
+5 & 1 & -2
+\end{pmatrix}$+$3\begin{pmatrix}
+1 & 8 & -5 \\
+6 & 7 & 2 \\
+\Theta_{1} & \Theta_{2} & \Theta_{3}
+\end{pmatrix}$=$\begin{pmatrix}
+5\beta & -5\alpha_{1} & -35 \\
+-10 & -20  & -60 \\
+-35 & -25 & -5
+\end{pmatrix}$
++$\begin{pmatrix}
+4 & \gamma_{1}+24 & -8 \\
+25 & 26 & 1 \\
+3\Theta_{1}+5 & 3\Theta_{2}+1 & 3\Theta_{3}-2
+\end{pmatrix}$=$\begin{pmatrix}
+5\beta-4 & -\gamma_{1}-5\alpha_{1}-24 & -27 \\
+-35 & -46 & -61 \\
+-3\Theta_{1}-40 & -3\Theta_{2}-26 & -3\Theta_{3}-3
+\end{pmatrix}$
+
+\end{document}
+
+|Грачев Иван
+
+--------------------------------
+1
+--------------------------------
+
+
+|Грек Полина
+
+--------------------------------
+1
+--------------------------------
+https://drive.google.com/drive/u/1/my-drive
+
+|Димитров Благой
+
+--------------------------------
+1
+--------------------------------
+https://drive.google.com/open?id=0B7g8u6TIKX8-RGo0VzVqSzBBdk0
+
+|Еремеев Иван
+
+--------------------------------
+1
+--------------------------------
+Пример 1 ссылка на документ:   https://drive.google.com/open?id=0BwBDEKH2MHjNSmFRTThSUXB2S28                      
+\section{1}
+$\begin{pmatrix}
+1 & 2 \\
+3 & 4
+\end{pmatrix}+2\begin{pmatrix}
+7 & -2 \\
+9 & 5
+\end{pmatrix}-\begin{pmatrix}
+5 & 7 \\
+8 & 1
+\end{pmatrix}=\begin{pmatrix}
+1 & 2 \\
+3 & 4
+\end{pmatrix}+\begin{pmatrix}
+14 & -4 \\
+18 & 10
+\end{pmatrix}-\begin{pmatrix}
+5 & 7 \\
+8 & 1
+\end{pmatrix}=\begin{pmatrix}
+15 & -2 \\
+21 & 14
+\end{pmatrix}-\begin{pmatrix}
+5 & 7 \\
+8 & 1
+\end{pmatrix}=\begin{pmatrix}
+10 & -9 \\
+13 & 13
+\end{pmatrix}$ 
+
+\end{document}                                                                                                                                                                           Пример 2 ссылка на документ: https://drive.google.com/open?id=0BwBDEKH2MHjNQWlTUHRscUVGTFE                        
+\section{2}
+$0.5\begin{pmatrix}
+2 & \Theta & 5 \\
+7 & \alpha & 1 \\
+6 & 3 & 2
+\end{pmatrix}$-$\begin{pmatrix}
+-5 & \alpha & 7 \\
+8 & 3 & 2 \\
+1 & 4 & 1
+\end{pmatrix}$+$\begin{pmatrix}
+1 & 8 & 7 \\
+\Theta & \beta & -7 \\
+\gamma_{1} & 1 & 5
+\end{pmatrix}$=$\begin{pmatrix}
+1 & 0.5\Theta & 2.5 \\
+3.5 & 0.5 \alpha & 0.5 \\
+3 & 1.5 & 1
+\end{pmatrix}$+$\begin{pmatrix}
+6 & 8-\alpha & 0 \\
+\Theta-8 & \beta-3 & -9 \\
+\gamma_{1}-1 & -3 & 4
+\end{pmatrix}$=
+$\begin{pmatrix}
+7& 0.5\Theta+8-\alpha & 2.5 \\
+\Theta-4.5 & 0.5\alpha+\beta-3 & -8.5 \\
+2-\gamma_{1} & -1.5 & -3
+\end{pmatrix}$
+
+\end{document}                                                                                                                                                                          Пример 3 ссылка на документ:   https://drive.google.com/open?id=0BwBDEKH2MHjNZUJJT3FoSkJfZlE                           
+\section{3}
+$-5\begin{pmatrix}
+-\beta & \alpha_{1} & 7 \\
+2 & 4 & 12 \\
+7 & 5 & 1
+\end{pmatrix}$-$\begin{pmatrix}
+1 & \gamma_{1} & 7 \\
+7 & 5 & -5 \\
+5 & 1 & -2
+\end{pmatrix}$+$3\begin{pmatrix}
+1 & 8 & -5 \\
+6 & 7 & 2 \\
+\Theta_{1} & \Theta_{2} & \Theta_{3}
+\end{pmatrix}$=$\begin{pmatrix}
+5\beta & -5\alpha_{1} & -35 \\
+-10 & -20  & -60 \\
+-35 & -25 & -5
+\end{pmatrix}$
++$\begin{pmatrix}
+4 & \gamma_{1}+24 & -8 \\
+25 & 26 & 1 \\
+3\Theta_{1}+5 & 3\Theta_{2}+1 & 3\Theta_{3}-2
+\end{pmatrix}$=$\begin{pmatrix}
+5\beta-4 & -\gamma_{1}-5\alpha_{1}-24 & -27 \\
+-35 & -46 & -61 \\
+-3\Theta_{1}-40 & -3\Theta_{2}-26 & -3\Theta_{3}-3
+\end{pmatrix}$
+
+\end{document}
+
+|Звонов Даниил
+
+--------------------------------
+1
+--------------------------------
+\selection{1}https://drive.google.com/file/d/0B2eI8FzrN3mbX204S2JVbmp6am8/view?usp=sharing                                  \selection{2}https://drive.google.com/file/d/0B2eI8FzrN3mbSkVKR0FvVjZHaDA/view?usp=sharing                                                                                                                        \selection{3}https://drive.google.com/file/d/0B2eI8FzrN3mbYU53ZnRKcG8wOTg/view?usp=sharing
+
+|Златковский Марк
+
+--------------------------------
+1
+--------------------------------
+
+
+|Зорин Андрей
+
+--------------------------------
+1
+--------------------------------
+
+
+|Иванова Марианна
+
+--------------------------------
+1
+--------------------------------
+1 https://drive.google.com/open?id=0B7KKz7Vep_hARFh6eEpUdXZFM3c 3 https://drive.google.com/open?id=0B7KKz7Vep_hAZC16NjZTR1M3OEk 2 https://drive.google.com/open?id=0B7KKz7Vep_hAbzJLenlLeFByaU0
+
+|Игнатьев Артур
+
+--------------------------------
+1
+--------------------------------
+https://drive.google.com/open?id=0B8WVbI5-UiwrR1VWZld3cllMdFU
+
+https://drive.google.com/open?id=0B4RcFl_SooZVY29BZk1sZ0sxWlk
+
+https://drive.google.com/open?id=0B4RcFl_SooZVeE5BODl5OXhyYXc
+
+|Козар Илья
+
+--------------------------------
+1
+--------------------------------
+В этом файле представлены 1,2,3 задания соответственно: https://www.dropbox.com/s/ljsx3lqpl71h98g/12.10.16.pdf?dl=0
+
+|Котова Олеся
+
+--------------------------------
+1
+--------------------------------
+https://drive.google.com/open?id=0B6tNqffiqlawbklGMDAxZUdaWTg
+
+|Лабес Алена
+
+--------------------------------
+1
+--------------------------------
+https://drive.google.com/open?id=0B8WVbI5-UiwrbUpKUGJMMnNyUU0                https://drive.google.com/open?id=0B8WVbI5-UiwrQ3VLNjFsVHJuUWc               https://drive.google.com/open?id=0B8WVbI5-UiwrXzQ2T1hEM3FuWkk
+
+|Мартыненко Анастасия
+
+--------------------------------
+1
+--------------------------------
+https://drive.google.com/open?id=0B6tNqffiqlawekNpVVRfc25ZQnc
+
+|Никитин Михаил
+
+--------------------------------
+1
+--------------------------------
+http://wdfiles.ru/1C9x  \documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\begin{document}
+
+\section{MISHA}
+
+$\begin{pmatrix} 1&2\\3&4 \end{pmatrix} + \begin{pmatrix} 7&-2\\9&5 \end{pmatrix}*2 - \begin{pmatrix} 5&7\\8&1 \end{pmatrix}= \begin{pmatrix} 10&-9\\13&13 \end{pmatrix} $
+\section{MISHA}
+$\begin{pmatrix} 2&\theta&5\\7&\alpha&1\\6&3&2 \end{pmatrix}*1/2 + \begin{pmatrix} -5&\alpha&7\\8&3&2\\1&4&1 \end{pmatrix} + \begin{pmatrix} 1&8&7\\\theta&\beta&-7\\\gamma&1&5 \end{pmatrix} $
+\end{document}
+
+|Нургалиев Артём
+
+--------------------------------
+1
+--------------------------------
+\section{1}                                                                                                                     https://cloud.mail.ru/public/4gki/7E2DWjrQ9                                                                                                                     \section{2,3}                                                                                                                          https://cloud.mail.ru/public/KGcB/sYq2RFFaa
+
+|Нургалиев Тимур
+
+--------------------------------
+1
+--------------------------------
+номер 1: https://drive.google.com/open?id=0BzykEyeTIMapQ1V4SzhWQ0c5bUk                                                           номера 2,3: https://drive.google.com/open?id=0ByF5aN1slvjlU0g4NmthcHY2VXc                                                                           
+
+|Попелышко Аким
+
+--------------------------------
+1
+--------------------------------
+https://drive.google.com/open?id=0B6NPtvUlQBxWejN5NDlzYldxRk0
+
+|Смирнов Михаил
+
+--------------------------------
+1
+--------------------------------
+https://drive.google.com/open?id=0B-mgpZFWSe-KTmI5Q01HYjE5R2M
+
+|Ширшин Даниил
+
+--------------------------------
+1
+--------------------------------
+https://www.dropbox.com/s/rdal2fwo4kht6oh/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%20%D0%B2%20LaTex.pdf?dl=0    \documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+
+\begin{document}
+$\begin{pmatrix}
+2&\theta&5\\
+7&\alpha&1\\
+6&3&2
+\end{pmatrix}*\frac{1}{2}-
+\begin{pmatrix}
+-5&\alpha&7\\
+8&3&2\\
+1&4&1
+\end{pmatrix}+
+\begin{pmatrix}
+1&8&7\\
+\theta&\beta&-7\\
+\delta_{1}&1&5
+\end{pmatrix}=$
+
+$\begin{pmatrix}
+1&\frac{\theta}{2}&\frac{5}{2}\\
+\frac{7}{2}&\frac{\alpha}{2}&\frac{1}{2}\\
+3&\frac{3}{2}&1
+\end{pmatrix}+
+\begin{pmatrix}
+6&8-\alpha&0\\
+\theta-8&\beta-3&-9\\
+\delta_{1}1&-3&4
+\end{pmatrix}$
+
+
+
+
+\end{document}
+

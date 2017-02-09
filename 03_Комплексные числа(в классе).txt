@@ -1,0 +1,360 @@
+|Абдурахманов Рауль
+
+--------------------------------
+1
+--------------------------------
+$\frac{5j+8}{7-j}=\frac{(5j+8)*(7+j)}{49-j^2}=\frac{35j+8j+42+5j^2}{50}=\frac{51+43j}{50}$  https://www.dropbox.com/s/s2e4gggs56yr4mg/komplexnumb3.pdf?dl=0
+
+|Бей Святослав
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{pscyr}
+\begin{document}
+
+\section{1 zadanie}
+
+
+$1) \frac{5j+8}{7-j}=\frac{(5j+8)(7+j)}{(7-j)(7+j)}=\frac{35j-5+56+8j}{49+1}=\frac{51}{50}+\frac{43j}{50}$
+
+
+
+
+ \end{document}  
+https://drive.google.com/open?id=0B8vqgf4L2SD6Y2JMUEFGeHFFTW8  https://drive.google.com/open?id=0B8vqgf4L2SD6VEcxdEY1UzRNY3M
+
+|Берхман Евгений
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{pscyr}
+\begin{document}
+
+\section{}
+Dano:
+ $\frac{5j+8}{7-j}$ 
+ Cepochka preobrazovaniy:
+$\frac{5j+8}{7-j}=\frac{(5j+8)(7+j)}{49-j^2}=\frac{35j+5j^2+8j+56}{49+1}=\frac{43j+51}{50}=0.86j+1.02$
+
+
+Otvet:
+$0.86j+1.02$
+\end{documen}https://drive.google.com/open?id=0B6RLzUNVH62laEJFQ2g4NjdPZjA   https://drive.google.com/open?id=0B6RLzUNVH62ldmlwcjIySXlXaTg
+
+|Ведь Олеся
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english, russian]{babel}
+
+\usepackage{pscyr}
+
+\begin{document}
+1)  (5j+8)/frac{7-j}=(5j+8)*(7+j)/frac{50}=(43j+56-5)/frac{50}=0,86j+1,02
+
+\end{document}
+
+|Винникова Анна
+
+--------------------------------
+1
+--------------------------------
+documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+\section{One}
+$\frac{5j+8}{7-j}=\frac{(5j+8)(7+j)}{49-j^2}=\frac{35j+5j^2+8j+56}{49+1}=\frac{43j+51}{50}$
+\end{document}   
+
+|Грачев Иван
+
+--------------------------------
+1
+--------------------------------
+
+
+|Димитров Благой
+
+--------------------------------
+1
+--------------------------------
+https://drive.google.com/open?id=0B7g8u6TIKX8-RFdTQWRSUXRfTkU
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+%\usepackage{pscyr}
+\begin{document}
+
+\section{First Question}
+
+$\frac{5j + 8}{7 - j} = \frac{(5j + 8)(7 + j)}{49 - j^2} = \frac{35j + 56 + 8j - 5}{50} = \frac{43j + 51}{50}$
+\end{document}
+
+|Еремеев Иван
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english]{babel}
+
+
+\begin{document}
+\section{One}
+$\frac{5j+8}{7-j}=\frac{(5j+8)(7+j)}{49-j^2}=\frac{35j+5j^2+8j+56}{49+1}=\frac{43j+51}{50}$
+\end{document}   Ссылка на документ:https://drive.google.com/open?id=0BwBDEKH2MHjNRnJRWFplQUhYYWc                                           Ссылка на график:  https://drive.google.com/open?id=0BwBDEKH2MHjNVU1RcWEwNnU3ckU
+
+|Звонов Даниил
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english, russian]{babel}
+
+\usepackage{pscyr}
+
+
+\begin{document}
+dano:$\frac{5j+8}{7-j}$
+
+
+$\frac{5j+8}{7-j}=\frac{(5j+8)*(7+j)}{49-j^2}=\frac{43j+56}{49-j^2}=0.86j+1.02$
+
+
+otvet:$0.86j+1.02$
+\end{document}   https://drive.google.com/file/d/0B2eI8FzrN3mbV2JFYlFNeUMydEk/view?usp=sharing      https://drive.google.com/file/d/0B2eI8FzrN3mbcmxFcDc4NV9MdlU/view?usp=sharing
+
+|Златковский Марк
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+\section{first task}
+$\frac{5j+8}{7-j}=\frac{(5j+8)(7+j)}{49-j^2}=\frac{35j+56+8j-5}{50}=\frac{43j+51}{50}$
+
+%ССЫЛКА НА ГРАФИК:                                                                                 %https://drive.google.com/open?id=0B7GsKm0wSqsXTkpHM2RNN29kODg
+
+%ССФЫЛКА НА ПДФФ
+%https://drive.google.com/open?id=0B7GsKm0wSqsXeFhYbTJhdksyMjg
+\end{document}\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+\section{first task}
+$\frac{5j+8}{7-j}=\frac{(5j+8)(7+j)}{49-j^2}=\frac{35j+56+8j-5}{50}=\frac{43j+51}{50}$
+
+%ССЫЛКА НА ГРАФИК:                                                                                 %https://drive.google.com/open?id=0B7GsKm0wSqsXTkpHM2RNN29kODg
+
+%ССФЫЛКА НА ПДФФ
+%https://drive.google.com/open?id=0B7GsKm0wSqsXeFhYbTJhdksyMjg
+\end{document}
+
+|Зорин Андрей
+
+--------------------------------
+1
+--------------------------------
+
+
+|Иванова Марианна
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english, russian]{babel}
+
+
+\begin{document}
+
+$\frac{5j+8}{7-j} = \frac{(5j+8)(7+j)}{50} = \frac{43j+51}{50} = \frac{86j+102}{100} = \frac{1,02+0.86j}{1}$
+
+\end{document}} картинка https://drive.google.com/open?id=0B7KKz7Vep_hAdENFZWowZFNKcEE
+
+|Игнатьев Артур
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+\section{1}
+$\frac{5j+8}{7-j}=\frac{(5j+8)(7+j)}{49-j^2}=\frac{43j+51}{50}$
+\end{document}                            https://drive.google.com/open?id=0B_c0IOR2UnkXdTVvTHNPNDNpUlU   https://drive.google.com/open?id=0B_c0IOR2UnkXZkszdVJuSFV3eEE
+
+|Козар Илья
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+
+
+$\frac{5j+8}{7-j}=\frac{(5j+8)*(7+j)}{49-j^2}=\frac{35j+8j+42+5j^2}{50}=\frac{51+43j}{50}$
+\end{document} https://www.dropbox.com/s/wt35lvwzxwmuy3t/document.pdf?dl=0   https://www.dropbox.com/s/mtms6q2batn1blg/Komplexnumb%202.pdf?dl=0
+
+|Котова Олеся
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english, ]{babel}
+\usepackage{}
+\begin{document}
+
+
+$\frac{5j+8}{7-j}=\frac{(5j+8)(7+j)}{49-j*j}=\frac{51+43j}{50}=\frac{51}{50}+\frac{43j}{50}$
+\end{document}                                                            https://drive.google.com/open?id=0B6tNqffiqlawb0xwZmlxWlpUQ00           https://drive.google.com/open?id=0B6tNqffiqlawVVlHdXlJaHB6TkE
+
+|Лабес Алена
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{}
+\begin{document}
+
+
+
+$\frac{5j+8}{7-j}={(5j+8)(7-j)}{(7-j)(7-j)}={27j+61}{50}={61}{50}+{27j}{50}$
+
+\end{document}\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{}
+\begin{document}
+
+
+
+$\frac{5j+8}{7-j}={(5j+8)(7-j)}{(7-j)(7-j)}={27j+61}{50}={61}{50}+{27j}{50}$
+
+\end{document} https://drive.google.com/open?id=0B8WVbI5-UiwrSk5URi1naUpDYVU  https://drive.google.com/open?id=0B8WVbI5-UiwrZENWVGdTUzBZVGM
+
+|Никитин Михаил
+
+--------------------------------
+1
+--------------------------------
+Download Url: http://wdfiles.ru/1AcH
+HTML Code: <a href="http://wdfiles.ru/1AcH~i?b4e46344383b6c592b4e765d3f3f38e3" target="_blank" title="Download From загрузить файл">Скачать document.tex from загрузить файл</a>
+Forum Code: [url]http://wdfiles.ru/1AcH[/url]
+Stats Url: http://wdfiles.ru/1AcH~s
+Delete Url: http://wdfiles.ru/1AcH~d?b4e46344383b6c592b4e765d3f3f38e3
+Full Info: [Нажмите сюда чтобы перейти в "Информация о файле"]
+http://wdfiles.ru/1AcH
+http://wdfiles.ru/1AcG
+
+|Нургалиев Артём
+
+--------------------------------
+1
+--------------------------------
+Ссылка:https://drive.google.com/open?id=0ByF5aN1slvjlVThtRE0tZWFZdnc
+Ссылка на картинку:https://cloud.mail.ru/public/E2un/2wanqVct9
+ \section{21}
+$\frac{5j+8}{7-j} = \frac{(5j+8)(7+j)}{7-j^2} = \frac{35j+56+8j+5j^2}{49+1} = \frac{51+43j}{50} = \frac{51}{50} + \frac{43}{50}j $
+
+|Нургалиев Тимур
+
+--------------------------------
+1
+--------------------------------
+ссылка: https://drive.google.com/open?id=0ByF5aN1slvjlaEJPTTYtT0VnLUU                                                                        ссылка на график: https://drive.google.com/open?id=0BzykEyeTIMapYUJtZDdWWjN2ckU        
+\section{}
+$\frac{5j+8}{7-j}=\frac{(5j-8)(7+j)}{7-j^2}=\frac{51+43j}{8}=\frac{51}{8}+\frac{43}{8}j$
+\end{document}
+
+|Попелышко Аким
+
+--------------------------------
+1
+--------------------------------
+ссылка на пдф   ссылка на график
+
+\section{akim}
+
+$\frac{5j+8}{7-j}=\frac{(5j+8)(7+j)}{49-j^2}=\frac{5j^2+43j+56}{49+1}=\frac{43j+51}{50}$
+
+|Смирнов Даниил
+
+--------------------------------
+1
+--------------------------------
+
+
+|Смирнов Михаил
+
+--------------------------------
+1
+--------------------------------
+PDF-файл задания: https://drive.google.com/open?id=0B-mgpZFWSe-KZkdpVzJscHFCLW8
+Файл коорд. плоскости: https://drive.google.com/open?id=0B-mgpZFWSe-KbXJXSjZJbjdobWs
+---==================================---
+
+\documentclass{article}
+
+
+
+\usepackage[utf8]{inputenc}
+
+
+
+\usepackage[english]{babel}
+
+
+
+\begin{document}
+$\frac{5j+8}{7-j}=\frac{(5j+8)(7+j)}{49-j^2}=\frac{35j+56+5j^2+8j}{50}=\frac{51+43j}{50}=1.02+0.86j$
+\end{document}
+
+|Ширшин Даниил
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+$1)\frac{5j+8}{7-j}=\frac{(5j+8)(7+j)}{49-j^2}=\frac{51+43j}{50}=1\frac{1}{50}+\frac{43j}{50}$
+
+\end{document} https://yadi.sk/i/e--OFlLUvUJup https://yadi.sk/i/jvjS6oIrvUKmZ
+

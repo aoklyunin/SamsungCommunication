@@ -1,0 +1,874 @@
+|Абдурахманов Рауль
+
+--------------------------------
+1
+--------------------------------
+
+
+--------------------------------
+2
+--------------------------------
+
+
+--------------------------------
+3
+--------------------------------
+
+
+|Бей Святослав
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english, russian]{babel}
+
+\begin{document}
+
+
+
+\section{2 задание}
+
+
+$\frac{2+1j}{4-8j}+(\frac{4-9j}{3-6j})^{-1}*\frac{-7-5j}{1+1j}+\frac{8-3j}{6+4j}=\frac{(2+1j)(1+2j)}{4(1-4j^{2})}+\frac{(3-6j)(4+9j)(-7-5j)(1-1j)}{(16-81j^{2})(1-j^{2})}+\frac{(8-3j)(6-4j)}{36-16j^{2}}=\frac{j}{4}+\frac{(-6+j)(66+3j)}{97}+\frac{36-50j}{52}=\frac{j}{4}+\frac{-399+48j}{97}+\frac{36-50j}{52}=-\frac{4314}{1261}-\frac{1093j}{5044}
+$                                                                                                                           
+
+
+
+
+
+
+
+ \end{document}  ссылка на pdf-файл:https://drive.google.com/open?id=0B8vqgf4L2SD6UTNDNnlHRXM2Ykk ссылка на картинку: https://drive.google.com/open?id=0B8vqgf4L2SD6UlZpbm5HTEQ1VHc
+
+--------------------------------
+2
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english, russian]{babel}
+
+\begin{document}
+
+
+
+\section{32 задание}
+
+
+$\frac{1-7j}{8-7j}+(\frac{7-3j}{1+6j})^{-1}*\frac{3+9j}{-10-6j}+\frac{-5-2j}{7+4j}=\frac{(1-7j)(8+7j)}{64-49j^{2}}+\frac{(1+6j)(7+3j)}{49-9j^{2}}*\frac{(3+9j)(10+6j)}{-(100-36j^{2})}+\frac{(-5-2j)(7-4j)}{49-16j^{2}}=\frac{57 - 49j}{113}+\frac{-11 + 45j}{58}*\frac{-84 - 72j}{136}+\frac{-43+6j}{65}=\frac{57 - 49j}{113}+\frac{1041-747j }{1972}+\frac{-43+6j}{65}=\frac{5370457}{14484340}-\frac{10430519j}{14484340}
+$                                                                                                                           
+
+
+
+
+
+
+ \end{document}  ссылка на pdf-файл: https://drive.google.com/open?id=0B8vqgf4L2SD6SVQyU2d2TnJ6Z2M    ссылка на картинку: https://drive.google.com/open?id=0B8vqgf4L2SD6OTNLWXBMSlRPQjg
+
+--------------------------------
+3
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english, russian]{babel}
+
+\begin{document}
+
+
+
+\section{62 задание}
+
+
+$\frac{2+6j}{-8+3j}+(\frac{-5+1j}{-8-6j})^{-1}*\frac{6+7j}{-3+4j}-\frac{5+9j}{-3+2j}=\frac{(2+6j)(3j+8)}{9j^{2}-64}+\frac{(-8-6j)(j+5)}{j^{2}-25}*\frac{(6+7j)(4j+3)}{16j^{2}-9}=\frac{2 - 54j}{73}+\frac{17+19j}{13}*\frac{2-9j}{5}-\frac{3-37j}{13}=\frac{2- 54j}{73}+\frac{41-23j}{13}-\frac{3-37j}{13}=\frac{2800}{949}+\frac{320j}{949}
+$                                                                                                                           
+
+
+
+
+
+
+ \end{document}    ссылка на pdf-файл:https://drive.google.com/open?id=0B8vqgf4L2SD6LTRlQTRSYVJLNjg   ссылка на картинку: https://drive.google.com/open?id=0B8vqgf4L2SD6RUJva1YySjNnaFU
+
+|Берхман Евгений
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+
+
+\title{Variant 3}
+
+
+
+\date{September 2016}
+
+
+
+\begin{document}
+
+
+
+\section{Variant 3}
+
+
+
+Dano: $\frac{7+4j}{-2+7j}-(\frac{-1+9j}{4+3j})^-1*\frac{9+1j}{-5-3j}-\frac{-5-4j}{-4+9j}$
+
+
+
+Cepochka preobrazovaniy: $\frac{7+4j}{-2+7j}-(\frac{-1+9j}{4+3j})^-1*\frac{9+1j}{-5-3j}-\frac{-5-4j}{-4+9j}=\frac{(7+4j)(7j+2)}{(7j-2)(7j+2)}-\frac{(4+3j)(1+9j)}{(9j-1)(9j+1)}*\frac{(9+1j)(-5+3j)}{(-5-3j)(-5+3j)}+\frac{(5+4j)(9j+4)}{(9j-4)(9j+4)}=\frac{57j-14}{-53}-\frac{39j-23}{-82}*\frac{22j-48}{34}+\frac{61j-16}{-97}=-1.08j+0.26-(-0.48j+0.28)(0.65j-1.41)-0.63j+0.16=(0.8588-1.08-0.63)j+(0.16+0.26-0.0828)=-0.8512j+0.3372$ 
+
+
+
+
+Otvet: $-0.8512j+0.3372$
+
+
+
+
+
+\end{document} https://drive.google.com/open?id=0B6RLzUNVH62lLWVXaHlJckhMR00     https://drive.google.com/open?id=0B6RLzUNVH62lX05ZSmNJdVQwZDg
+
+--------------------------------
+2
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+
+
+\title{Variant 3}
+
+
+
+\date{September 2016}
+
+
+
+\begin{document}
+
+
+
+\section{Variant 33}
+
+
+
+Dano: $\frac{-1+3j}{10-6j}+(\frac{5+9j}{6+5j})^-1*\frac{-6+2j}{-9-2j}-\frac{-10-7j}{9+5j}$
+
+
+
+Cepochka preobrazovaniy: $\frac{-1+3j}{10-6j}+(\frac{5+9j}{6+5j})^-1*\frac{-6+2j}{-9-2j}-\frac{-10-7j}{9+5j}=\frac{(-1+3j)(10+6j)}{(10-6j)(10+6j)}+\frac{(5-9j)(6+5j)}{(5-9j)(5+9j)}*\frac{(-6+2j)(-9+2j)}{(-9-2j)(-9+2j)}+\frac{(10+7j)(9-5j)}{(9+5j)(9-5j)}=\frac{24j-28}{106}+\frac{-29j+75}{34}*\frac{-30j+50}{83}+\frac{13j+125}{86}=0.23j-0.26+(-0.85j+2.21)(-0.36j+0.60)+0.15j+1.45=(0.23-1.3056+0.15)j+(-0.26+1.02+1.45)=-0.9256j+2.21$ 
+
+
+
+
+Otvet: $-0.9256j+2.21$
+
+
+
+
+
+
+
+\end{document}    https://drive.google.com/open?id=0B6RLzUNVH62lNlNNWG5iakhIeFk      https://drive.google.com/open?id=0B6RLzUNVH62lS2JHMG1oYzIxUWc
+
+--------------------------------
+3
+--------------------------------
+
+
+|Винникова Анна
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{pscyr}
+\begin{document}
+\section{5}
+$\frac{10+9j}{-5+1j}-\frac({-7-5j}{7+5j})^{-1}*\frac{4-4j}{4+9j}+\frac{9-3j}{-6-6j}=\frac({10+9j}{-5+1j})+\frac{4-4j}{4+9j}+\frac{j-3}{2+2j}= \frac{150j-57}{-29-41j}+\frac{j-3}{2+2j} =\frac{(150j-57)*(2+2j)}{(2+2j )*(-29-41j)}+ \frac{(j-3)*(-29-41j)}{(2+2j )*(-29-41j)}=  \frac {186j-444+94j+128}{(2+2j )*(-29-41j)}= \frac{92j-316}{24-140j}=\frac{23j-79}{6-35j}= \frac {(23j-79)*(6+35j)}{(6-35j)*(6+35j)}= \frac {-1279-2627j}{1261}=\frac{-1279}{1261}-\frac{2627j}{1261}$
+\end{document}
+
+--------------------------------
+2
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{pscyr}
+\begin{document}
+\section{35}
+$\frac{-1+10j}{-10+8j}-\frac({9-3j}{3-6j})^{-1}*\frac{-5+7j}{-10-5j}-\frac{3-2j}{3+8j}=\frac{-1+10j}{-10+8j}}-\frac{3-6j}{9-3j}*\frac{-5+7j}{-10-5j}-\frac{3-2j}{3+8j}=\frac{-1+10j}{-10+8j}}+\frac{17j+9}{5j+35}+\frac{2j-3}{3+8j}=\frac{22j+69}{94+56j}+\frac{17j+9}{5j+35}=\frac{2217j+2199}{2430j+3010}=\frac{(2217j+2199)*(2430j-3010}{(2430j+3010)*(2430j-3010)}=\frac{12006300+1329600j}{+14965000}=\frac{120063}{149650}+\frac{13296j}{149650}
+\end{document}
+
+--------------------------------
+3
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{pscyr}
+\begin{document}
+\section{65}
+$\frac{7+2j}{10-4j}+\frac({-9-7j}{-1+9j})^{-1}*\frac{2+10j}{6+10j}-\frac{-7-9j}{-6-9j}=\frac{7+2j}{10-4j}+\frac{9j-1}{-9-7j}*\frac{1+5j}{3+5j}-\frac{7+9j}{6+9j}=\frac{7+2j}{10-4j}+\frac{-4j+46}{66j-8}-\frac{7+9j}{6+9j}=\frac{-4j+46}{66j-8}+\frac{13j-82}{66j+96}=\frac{23-2j}{33j-4}+\frac{13j-82}{66j+96}=\frac{-1432j+2239}{2904j-2562}=\frac{(-1432j+2239)(2904j+2562)}{(2904j-2562)(2904j+2562)}=\frac{-2833272j+9894846}{1869372}=\frac{1649141}{311562}+\frac{472212j}{311562}$
+\end{document}
+
+|Грачев Иван
+
+--------------------------------
+1
+--------------------------------
+
+
+--------------------------------
+2
+--------------------------------
+
+
+--------------------------------
+3
+--------------------------------
+
+
+|Грек Полина
+
+--------------------------------
+1
+--------------------------------
+$\frac{10-5*j}{-9-2*j}+\frac{5+9*j}{4-9*j}*\frac{-9+3*j}{3+j}-\frac{-1+j}{-3-10*j}=\frac{(10-5*j)(-3-10*j)-(-1+j)(-9-2*j)}{(-3-10*j)(-9-2*j)}+\frac{(5+9*j)(-9+3*j)}{(4-9*j)(3+j)}=\frac{-87+72*j}{7+96*j}+\frac{7+33*j}{21*j-171}=\frac{-13236*j+10246}{{-3213-16269*j}=\frac{-248256882+592131068*j}{275003730}=-0.9+0.2*j$
+Ответ:$}=-0.9+0.2*j$
+
+--------------------------------
+2
+--------------------------------
+$\frac{-5-9*j}{-2-j}+\frac{-6+5*j}{2-6*j}*\frac{-9+7*j}{-8-8*j}-\frac{8+4*j}{7+9*j}=\frac{(-5-9*j)(7+9*j)-(8+4*j)(-2-j)}{(-2-j)(7+9*j)}+\frac{(-6+5*j)(-9+7*j)}{(2-6*j)(-8-8*j)}=\frac{34-122*j}{-7-25*j}+\frac{9-87*j}{-64+32*j}=\frac{-510+9280*j}{1248+1376*j}=-36-36*j $
+Ответ:$}=-36-36*j$
+
+--------------------------------
+3
+--------------------------------
+
+
+|Димитров Благой
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{pscyr}
+\begin{document}
+
+\section{n = 9}
+
+$\frac{5 + 5j}{-10 + 3j} - (\frac{2 + 8j}{-8 + 6j})^{-1} * \frac{-9 -9j}{8 - 7j} + \frac{-6 + 6j}{-8 + 5j} = -\frac{35 + 65j}{109} + \frac{8 + 19j}{17} * \frac{-9 - 135j}{113} + \frac{78 - 18j}{89} = \frac{34533020}{18635621} - \frac{27017938}{18635621}j$
+
+\end{document}https://drive.google.com/open?id=0B7g8u6TIKX8-Q3V5VnVwUk90OUk
+
+--------------------------------
+2
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{pscyr}
+\begin{document}
+
+\section{n = 39}
+
+$\frac{-9 + 5j}{9 - 9j} - (\frac{8 - 8j}{7 - 5j})^{-1} * \frac{3 + 6j}{3 + 3j} - \frac{6 + 7j}{-7 - 6j} = -\frac{7 + 2j}{9} - \frac{6 + j}{8} * \frac{3 + j}{2} - \frac{84 + 13j}{85} = -\frac{7 + 2j}{9} - \frac{17 + 9j}{16} - \frac{84 + 13j}{85} = -\frac{10429}{12240} - \frac{-7733j}{12240}$
+
+\end{document}
+
+--------------------------------
+3
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{pscyr}
+\begin{document}
+
+\section{n = 69}
+
+$\frac{-8 + 8j}{-6 - 6j} - (\frac{3 - 3j}{-9 + 6j})^{-1} * \frac{-8 - j}{-9 - 9j} - \frac{-4 + 5j}{-8 - 5j} = -\frac{4}{3}j - \frac{-5 - j}{2} * \frac{9 - 7j}{18} - \frac{7 - 60j}{89} = -\frac{4}{3}j - \frac{-26 + 13j}{18} - \frac{7 - 60j}{89} = \frac{1094}{801} - \frac{2213}{1602}j$
+
+\end{document}https://drive.google.com/open?id=0B7g8u6TIKX8-bkI2UEdmamhTWHM
+
+|Еремеев Иван
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{pscyr}
+\begin{document}
+\section{10}
+$(\frac{6-5j}{-4-9j})-\frac{6-10j}{-5+2j}*\frac{-8j-2}{2j+4}+\frac{-7+6j}{-5+8j}=\frac{-2(1346j^4-605j^3-113j^2-380j+70)}{(j+2)(2j-5)(8j-5)(9j+4)}=\frac{-3058-450j}{1091+240j}=\frac{-3444278+242970j}{1247881}$
+
+
+\end{document}     Ссылка на документ:  https://drive.google.com/open?id=0BwBDEKH2MHjNRjh4Q1VpeVJoNkU                                                                                                                                                                                                      Ссылка на график:https://drive.google.com/open?id=0BwBDEKH2MHjNZUs1ZDRwUjhuVGs
+
+--------------------------------
+2
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{pscyr}
+\begin{document}
+\section{40}
+$\frac{10+6j}{10-6j}+\frac{10+6j}{9-10j}*\frac{4-4j}{5-6j}-\frac{-2+1j}{6-6j}=-\frac{1332j^4-1044j^3-4885j^2+7595j-3000)}{6(j-1)(3j-5)(6j-5)(10j-9)}=\frac{-3217-8639j}{-5172-528j}=\frac{588881}{750788}+\frac{3581861j}{2252364}$
+
+
+\end{document}   Ссылка на документ:https://drive.google.com/open?id=0BwBDEKH2MHjNaXBRU01TdkdQVUU                                            Ссылка на график:https://drive.google.com/open?id=0BwBDEKH2MHjNNHZpekJ0ckR2dms
+
+--------------------------------
+3
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{pscyr}
+\begin{document}
+\section{70}
+$\frac{-4-1j}{4-5j}-\frac{-3-8j}{1-10j}*\frac{2-6j}{9+3j}+\frac{-5-7j}{3-4j}=\frac{2130j^4+2245j^3-47j^2-2264j+216)}{3(j+3)(4j-3)(5j-4)(10j-1)}=\frac{2393-4909j}{3009+513j}=\frac{156074}{310575}+\frac{533293j}{310575}$
+
+
+\end{document}        Ссылка на документ:  https://drive.google.com/open?id=0BwBDEKH2MHjNc0JSRGZLYWtuamc                                          Ссылка на график:https://drive.google.com/open?id=0BwBDEKH2MHjNaGhvMi1xUjVWSjQ
+
+|Звонов Даниил
+
+--------------------------------
+1
+--------------------------------
+37\documentclass{article} 
+
+\usepackage[utf8]{inputenc} 
+
+\usepackage[english, russian]{babel} 
+
+
+
+
+\begin{document} 
+$dano:(\frac{j-8}{6-6j})-((\frac{-4j-6}{-4+4j})*(\frac{5j+1}{-4-8j}))-(\frac{3j+8}{8+9j})$ 
+
+
+$(\frac{j-8}{6-6j})-((\frac{-4j-6}{-4+4j})*(\frac{5j+1}{-4-8j}))-(\frac{3j+8}{8+9j})=$
+
+$(\frac{(-27^2+34j+12}{6*(j-1)*(9j+8)})-(\frac{(1+(4-5 j) j)}{(6+j (16+8 j))=$
+
+$\frac{(135 j^4+13 j^3-2731 j^2-5535 j-2127)}{-144-402 j-78 j^2+408 j^3+216 j^4}=$
+
+$\frac{-5548j+739}{-910j+150}=$
+
+$\frac{(-5548j+739)*(150+910j)}{22500-828100j^2}=$
+
+$\frac{110850-159710 j-5048680 j^2}{850600}=$
+
+$\frac{5159530-159710j}{850600}=6.07-0.19j$ 
+
+
+$otvet:6.07-0.19j$ 
+\end{document}
+ https://drive.google.com/file/d/0B2eI8FzrN3mbU1UzNU1LdW5zbVU/view?usp=sharing                             https://drive.google.com/file/d/0B2eI8FzrN3mbbkl6cFFLak5Ed2c/view?usp=sharing
+
+--------------------------------
+2
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english, russian]{babel}
+
+
+
+
+\begin{document}
+$dano:(\frac{9j-6}{4+2j})-((\frac{10j+6}{4-8j})*(\frac{-2j-1}{8-3j}))+(\frac{9j+9}{7-8j})$
+$(\frac{9j-6}{4+2j})-((\frac{+10j+6}{4-8j})*(\frac{-2j-1}{8-3j}))+(\frac{9j+9}{7-8j})=$
+$(\frac{(3(18 j^2-55 j+2))}{-28+j (18+16 j)})-(\frac{-3-11 j-10 j^2)}{(16-38 j+12 j^2)=$
+$\frac{244 j^4-2194 j^3+3620 j^2-1307j+90}{-224+676j-382j^2-196j^3+96j^4}=$
+$\frac{887j-3286}{872j+254}=$
+$\frac{(887j-3286)*(872j-254)}{760384j^2-64516}=$
+$\frac{834644-3090690 j+773464 j^2}{-824900}=$
+$\frac{61180-3090690j}{-824900}=$
+$-0.07+3.7j$
+$otvet-0.07+3.7j$
+\end{document}   https://drive.google.com/file/d/0B2eI8FzrN3mbODJ1SlV0c2JaTXM/view?usp=sharing https://drive.google.com/file/d/0B2eI8FzrN3mbVGhkelIzVmVRZTQ/view?usp=sharing
+
+--------------------------------
+3
+--------------------------------
+
+
+|Иванова Марианна
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+
+
+\usepackage[utf8]{inputenc}
+
+
+
+\usepackage[english, russian]{babel}
+
+
+
+
+
+\begin{document}
+
+
+
+$\frac{8+7j}{4+3j}+((\frac{6j-3}{6-9j})^(-1))*\frac{2j-8}{7+j}+\frac{2-2j}{4-5j}=\frac{28j-10}{13j-9}+\frac{-42j+109}{31-8j}=\frac{780j-350}{475j-175}=\frac{(780j-350)*(475j+175)}{-256250}+=\frac{-29750j-431750}{-256250}=\frac{1,7+0,1j}{1}$
+
+
+\end{document}}
+
+--------------------------------
+2
+--------------------------------
+
+
+--------------------------------
+3
+--------------------------------
+
+
+|Игнатьев Артур
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+\section{15}
+$\frac{-9-6j}{10-9j}-(\frac{-10+2j}{-1-9j})^(-1)* \frac{9+7j}{3+j}+\frac{-1-3j}{4-4j}=
+\frac{(-9-6j)(4-4j)+(-1-3j)(10-9j)}{(4-4j)(10-9j)}-\frac{(-1-9j)(9+7j)}{(-10+2j)(3+j)}=
+ \frac{-97-9j}{4-76j}-\frac{54-88j}{-32-4j}= \frac{(-97-9j)(-32-4j)-(54-88j)(4-76j)}{(4-76j)(-32-4j)}=
+ \frac{9540+5132j}{-432-2448j}= -\frac{(9540+5132j)(432-2448j)}{(432+2448j)(432-2448j)}=
+ \frac{16684416-21136896j}{6179328}$
+\end{document}      https://drive.google.com/open?id=0BxF1Ml2TCIdWZ3BkbTVMMW5mdU0 https://drive.google.com/open?id=0BxF1Ml2TCIdWSURabXBqRDhoSjg
+
+--------------------------------
+2
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+\section{45}
+$\frac{5+7j}{-10+5j}-(\frac{3-4j}{-9+5j})^(-1)* \frac{-4-10j}{3-7j}+\frac{4-6j}{10+6j}=
+\frac{(5+7j)(10+6j)+(4-6j)(-10+5j)}{(-10+5j)(10+6j)}-\frac{(-9+5j)(-4-10j)}{(-9+5j)(3-7j)}=
+ \frac{-2+180j}{-130-10j}-\frac{86+70j}{-19-33j}= \frac{(-2+180j)(-19-33j)-(86+70j)(-130-10j)}{(-130-10j)(-19-33j)}=
+ \frac{16458+6606j}{2140+4480j}= \frac{(16458+6606j)(2140-4480j)}{(2140+4480j)(2140-4480j)}=
+ \frac{64815000-59595000j}{24650000}$
+\end{document}      https://drive.google.com/open?id=0BxF1Ml2TCIdWV2hyZXJTRGJXZEk   https://drive.google.com/open?id=0BxF1Ml2TCIdWbm5kMXVkOVNkVmc
+
+--------------------------------
+3
+--------------------------------
+\documentclass{article}
+ 
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+\section{75}
+$\frac{-4-10j}{4+j}-(\frac{10+5j}{-4+10j})^(-1)* \frac{2+10j}{-1+5j}+\frac{10+6j}{5+7j}=
+\frac{(-4-10j)(5+7j)+(10+6j)(4+j)}{(4+j)(5+7j)}-\frac{(-4+10j)(2+10j)}{(10+5j)(-1+5j)}=
+ \frac{84-44j}{13+33j}-\frac{-108-20j}{-35+45j}= \frac{(84-44j)(-35+45j)-(-108-20j)(13+33j)}{(-35+45j)(13+33j)}=
+ \frac{-216+9144j}{-1940-570j}=-\frac{(-216+9144j)(1940-570j)}{(1940+570j)(1940-570j)}=
+ \frac{4793040+17862480j}{4088500}$
+\end{document}      https://drive.google.com/open?id=0BxF1Ml2TCIdWdG1ZOWhoV0lFZUE   https://drive.google.com/open?id=0BxF1Ml2TCIdWOXVEcDNSWTBYRTg
+
+|Козар Илья
+
+--------------------------------
+1
+--------------------------------
+ https://www.dropbox.com/s/4euw0klkip67d7x/komplexnumb4.pdf?dl=0 https://www.dropbox.com/s/8b508fj4at2ksz2/komplexnumb4.png?dl=0 \documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+
+\section{16}
+
+$\frac{(8j+3)}{(1+2j)}-\frac{5+1j}{2-10j}^{(-1)}*\frac{-5+9j}{7+10j} + \frac{(-2j+10)}{(3-2j)}=\frac{(8j+3)*(1-2j)}{5}-\frac{(2-10j)*(5-1j)}{26}*(\frac{(-5+9j)*(7-10j)}{149})+\frac{(-2j+10)*(3+2j)}{(13)}=\frac{19+2j}{5}-\frac{(-52j)*(55+113j)}{26*149}+\frac{34+14j}{13}=\frac{19+2j}{5}+\frac{34+14j}{13}-\frac{5876-2860j}{3874}=\frac{247+38j+170+70j}{65}-\frac{5876-2860j}{3874}=\frac{417+108j}{65}-\frac{5876-2860j}{3874}=\frac{5421+1404j-(29380-14300j)}{19370}=\frac{47443+21454j}{9685}$
+
+
+\end{document}
+
+--------------------------------
+2
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+
+\section{16}
+
+$\frac{(-4-2j)}{(-7-5j)}+\frac{(8+2j)}{(8+8j)}^{(-1)}*\frac{(-5+7j)}{(-10-5j)}-\frac{(-2j+3)}{(3+8j)}=\frac{(-4-2j)*(-7+5j)}{74}+\frac{(8+2j)*(8-8j)}{128}*(\frac{(-5+7j)*(-10+5j)}{125})-\frac{(-2j+3)*(3-8j)}{(73)}=\frac{38-6j}{74}+\frac{(80-48j)*(15-95j)}{128*125}-\frac{(-7-30j)}{73}=\frac{38-6j}{74}-\frac{-7-30j}{73}+\frac{-3360-8320j}{16000}=\frac{2774-438j-(-518-2220j)}{5402}+\frac{-3360-8320j}{16000}=\frac{3292+1782j}{5402}+{-3360-8320j}{16000}=\frac{5421+1404j-(29380-14300j)}{19370}=\frac{47443+21454j}{9685}=\frac{130567+247404j}{7300}$
+
+
+\end{document} https://www.dropbox.com/s/o6kpntl7i54rz56/Komplexnumber%205.pdf?dl=0 https://www.dropbox.com/s/xjui4hvgbsr69nc/Komplexnumber5.png?dl=0
+
+--------------------------------
+3
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+
+\section{16}
+
+$\frac{(-3-9j)}{(3-5j)}-\frac{(10+8j)}{(2+10j)}^{(-1)}*\frac{(4+4j)}{(-7-10j)}-\frac{(-6+4j)}{(-1-2j)}=\frac{(-3-9j)*(3+5j)}{14}-\frac{(10+8j)*(2-10j)}{104}*\frac{(4+4j)*(-7+10j)}{149}-\frac{(-6+4j)*(-1+2j)}{5}=\frac{36-42j}{14}-\frac{(100-84j)*(-68+12j)}{104*149}-\frac{(-2-16j)}{5}=\frac{36-42j}{14}-\frac{(-2-16j)}{5}-\frac{-5792+6912j}{14560}=\frac{180-210j-(-28-224j)}{70}-\frac{-5792+6912j}{14560}=\frac{(208+14j)*208-(-5792+6912j)}{14560}=\frac{49056-4000j}{14560}$
+
+
+\end{document}https://www.dropbox.com/s/6cuudv2mx7f994z/Komplexnumber6.pdf?dl=0 https://www.dropbox.com/s/9hm86zgnebbl75g/Komplexnumber%206.png?dl=0
+
+|Котова Олеся
+
+--------------------------------
+1
+--------------------------------
+\begin{document}
+\section{17}
+
+$\frac{7+9j}{1+8j}-\frac{-1+4j}{-2+2j}*\frac{7+4j}{10-8j}-\frac{-4+7j}{-1+4j}=\frac{7+9j}{1+8j}+\frac{-23+24j}{-4+36j}-\frac{-4+7j}{-1+4j}=\frac{79-47j}{9}+\frac{-183j-239}{-328}-\frac{-9j-32}{-17}=\frac{382607-271793j}{50184}=\frac{382607}{50184}-\frac{271793j}{50184}$
+
+\end{document}                                                                                                                                           https://drive.google.com/open?id=0B6tNqffiqlawOUNKVnY1aEF1dGM                                                        https://drive.google.com/open?id=0B6tNqffiqlawUnNDZEJhTzNFZE0
+
+--------------------------------
+2
+--------------------------------
+\begin{document}
+\section{47}
+
+
+
+$\frac{2-10j}{-3-10j}-\frac{-2-8j}{-3-10j}*\frac{4-9j}{-2+9j}-\frac{-6+2j}{6+j}=\frac{10j-2}{3+10j}-\frac{2+7j}{3+10j}*\frac{4-9j}{9j-2}-\frac{2j-6}{6+j}=\frac{50j+94}{19}-\frac{71+10j}{7j-96}-\frac{18j-34}{37}=\frac{1508j+4124}{703}+\frac{1457j+6746}{9265}=\frac{19213891j+42951298}{6513295}=\frac{19213891}{6513295}*{j}+\frac{42951298}{6513295}$
+ \end{document}                                                                                                                                              https://drive.google.com/open?id=0B6tNqffiqlawM1VsMk4tb2Z1dTQ                                                           https://drive.google.com/open?id=0B6tNqffiqlawVXZObUc2TlhmdDg
+
+--------------------------------
+3
+--------------------------------
+\begin{document}
+\section{77}
+
+
+
+$\frac{5+3j}{2+5j}-\frac{5+6j}{9-5j}*\frac{4+2j}{6-9j}-\frac{-1+10j}{-7+j}=\frac{5+3j}{2+5j}-\frac{84-9j}{46-2j}-\frac{10j-1}{j-7}=\frac{25-19j}{29}-\frac{1941-123j}{1060}+\frac{-69j+17}{50}=\frac{-966870-2949710j}{1537000}=\frac{-966870}{1537000}-\frac{2949710}{1537000}*{j}$
+ \end{document}                                                                                                                                              https://drive.google.com/open?id=0B6tNqffiqlawcmJvdnpCWU1oZlU                                                            https://drive.google.com/open?id=0B6tNqffiqlawNFU2dTZZd1RmRlE
+
+|Лабес Алена
+
+--------------------------------
+1
+--------------------------------
+Вариант 18    \documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{}
+\begin{document}
+$\frac{-10+1j}{-6+1j} + (\frac{8+8j}{-6-6j})^{-1}* \frac{5+9j}{-2-7j} + \frac{3-6j}{3-10j} = \frac{(-10+1j)(6-1j)}{(-6+1j)(-6-1j)} + \frac{(-6-6j)(5+9j)}{(8+8j)(-2-7j)} + \frac{(3-6j)(3+10j)}{(3-10j)(3+10j)} = \frac{-60+10j+6j+1}{36+1} + \frac{-30-54j-30j+54}{-16-56j-16j+56} + \frac{9+30j-18j+60}{9+100} = \frac{1-44j}{37} + \frac{24-84j}{40-72j} + \frac{69+12j}{109} = \frac{1-44j}{37} + \frac{(24-84j)(40+72j)}{(40-72j)(40+72j)} + \frac{69+12j}{109} = \frac{1-44j}{37} + \frac{960+1728j-3360j+6048}{6784} + \frac{69+12j}{109} = \frac{1-44j}{37} + \frac{219-51j}{211} + \frac{69+12j}{109} = \frac{22999-1011956j+883227-205683j+538683+93684j}{850963} = \frac{1444909-678956i}{850963} = \frac{1444909}{850963} - \frac{678956i}{850963}$
+
+\end{document}   https://drive.google.com/open?id=0B8WVbI5-UiwrNXVQVUdpRWdkWGs   https://drive.google.com/open?id=0B8WVbI5-UiwrcmFRZDFTTXFXR0E
+
+--------------------------------
+2
+--------------------------------
+Вариант 48   \documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{}
+\begin{document}
+$\frac{10+9j}{3-1j} - (\frac{-9+3j}{-5-9j})^{-1}* \frac{7+8j}{-4+3j} + \frac{-8+1j}{-3-4j} = \frac{10+9j}{3-1j} - \frac{(-5-9j)(7+8j)}{(-9+3j)(-4+3j)} + \frac{-8+1j}{-3-4j} = \frac{(10+9j)(3+1j)}{9+1} - \frac{-35-40j-63j+72}{36-27j-12j-9} + \frac{-8+1j}{-(3+4j)} = \frac{30+10j+27j-9}{10} - \frac{37-103j}{27-39j} + \frac{(-8+1j)(3-4j)}{-(3+4j)(3-4j)} = \frac{21+37j}{10} - \frac{(37-103j)(27+39j)}{729+1521} + \frac{-24+32j+3j+4}{-(9+16)} = \frac{21+37j}{10} - \frac{999+111j-2781j+4017}{2250} - \frac{-20+35j}{-25} = \frac{21+37j}{10} - \frac{5016-167j}{2250} + \frac{-4+7j}{5} = \frac{21+37j+14j-8}{10} - \frac{5016-167j}{2250} = \frac{13+37j}{10} - \frac{5016-167j}{2250} = \frac{2925+8325j-5016+167j}{2250} = \frac{-2091+8492j}{2250} = \frac{-2091}{2250} - \frac{8492j}{2250}$
+\end{document}    https://drive.google.com/open?id=0B8WVbI5-UiwrRmlHRWhBNlNqaWM             https://drive.google.com/open?id=0B8WVbI5-UiwrWTNZOTRCeW5vM1k
+
+--------------------------------
+3
+--------------------------------
+
+
+|Мартыненко Анастасия
+
+--------------------------------
+1
+--------------------------------
+https://drive.google.com/open?id=0B_42MNOPBlHtYUtrcGlCZTFzUzgbegin{document} 
+
+\section{19} 
+
+$\frac{4-10j}{4+3j}+((\frac{5+4j}{4-10j})^(-1))*\frac{-9+9j}{4+8j}+\frac{10-8j}{2+6j}=\frac{4-10j}{4+3j}+\frac{4-10j}{5+4j}*\frac{-9+9j}{4+8j}+\frac{10-8j}{2+6j}=\frac{4-10j}{4+3j}+\frac{27+63j}{28j-6}+\frac{10-8j}{2+6j}=\frac{-14-52j}{25}+\frac{567j-801}{-410}+\frac{-19j-7}{10}=\frac{711-5497j}{1025}=\frac{711}{1025}-\frac{5497j}{1025}$
+
+
+
+\end{document}
+
+--------------------------------
+2
+--------------------------------
+https://drive.google.com/open?id=0B_42MNOPBlHtZVpDaS1saHNwLW8begin{document} 
+
+\section{49} 
+
+$\frac{7+9j}{6+j}+((\frac{-7+7j}{3+5j})^(-1))*\frac{-7-3j}{-6+j}+\frac{9-7j}{-9+8j}=\frac{7+9j}{6+j}+\frac{3+5j}{-7+7j}*\frac{-7-3j}{-6+j}+\frac{9-7j}{-9+8j}=\frac{7+9j}{6+j}+\frac{-23-27j}{70-28j}+\frac{9-7j}{-9+8j}=\frac{51+47j}{37}+\frac{-1267j-427}{2842}+\frac{-9j+137}{145}=\frac{400841j+1142472}{525770}=\frac{400841}{525770}+\frac{1142472j}{525770}$
+
+
+
+\end{document}
+
+--------------------------------
+3
+--------------------------------
+
+
+|Никитин Михаил
+
+--------------------------------
+1
+--------------------------------
+
+
+--------------------------------
+2
+--------------------------------
+
+
+--------------------------------
+3
+--------------------------------
+
+
+|Нургалиев Артём
+
+--------------------------------
+1
+--------------------------------
+ссылка:https://cloud.mail.ru/public/KPuW/oppaUnQW5                                                                                                                 ссылка на картинку:https://cloud.mail.ru/public/7szh/4EBAEGQpX                                                                                               \section{21}
+$\frac{7-9j}{-3+9j}-(\frac{-8-8j}{-10+4j})^{-1}*\frac{4+7j}{-9-6j}+\frac{9+9j}{7-1j} = \frac{(9j+3)(7-9j)}{(9j-3)(9j+3)} - \frac{4j-10}{-8-8j}*\frac{(9-6j)(-4-7j)}{(9+6j)(9-6j)}+\frac{(9+9j)(7+1j)}{(7-1j)(7+1j)} = \frac{63j+21-81j^2-27j}{-89} - \frac{(10-4j)(8-8j)}{(8+8j)(8-8j)}*\frac{-36+24j-63j+42j^2}{117}+\frac{63+63j+9j+9j^2}{50} = \frac{36j+102}{-89} - \frac{80-32j-80j+32j^2}{128}*\frac{-39j-78}{117}+
+\frac{54+72j}{50} = \frac{1800j+5100-4806-6408j}{-89*50} - \frac{48-112j}{128}*\frac{-39j-78}{117} = \frac{-4608j+294}{-4450} - \frac{5616-13104j-4992j-9984}{14976} = \frac{4608j-294}{4450} - \frac{-4368+18096j}{14976} = \frac{69009408j-4402944+19437600-80527200j}{4450*14976}= \frac{-11517792j}{66643200}+\frac{15034656}{66643200}=\frac{12047}{53400}+ \frac{-9229j}{53400}$                                                                                       
+
+--------------------------------
+2
+--------------------------------
+Ссылка:https://cloud.mail.ru/public/KyiB/23gAkPSUH                                                                                                         Ссылка на картинку:https://cloud.mail.ru/public/6ash/3sersxjfe                                                                                  \section{51}
+$\frac{-5-8j}{10-5j}+(\frac{-5-10j}{-8+5j})^{-1}*\frac{1-4j}{8+2j}-\frac{6-4j}{10-5j} = \frac{-5-8j-6+4j}{10-5j}+\frac{8-5j}{5+10j}*\frac{(1-4j)(8-2j)}{(8+2j)(8-2j)} = \frac{(-11-4j)(10+5j)}{(10-5j)(10+5j)}+\frac{(8-5j)(5-10j)}{(5+10j)(5+10j)}*\frac{8-32j-2j+8j^2}{68} = \frac{-110-40j-55j-20j^2}{125}+\frac{40-25j-80j+50j^2}{125}*\frac{-34j}{68} = \frac{-90-95j}{125}+\frac{-10-105j}{125}*\frac{-34j}{68} = \frac{-6120-6460j+340j+3570j^2}{125*68} = \frac{-9690}{8500}-\frac{6120}{8500}=-\frac{57}{50}-\frac{18j}{25}$
+
+--------------------------------
+3
+--------------------------------
+Ссылка:https://cloud.mail.ru/public/2vAK/YuJ4xqWLh                                                                                                       Ссылка на картинку:https://cloud.mail.ru/public/Khbe/QLkC4XwV2                                                                               \section{81}
+$\frac{-9+6j}{-2-1j}-(\frac{-4-7j}{-5+8j})^{-1}*\frac{3-5j}{8-3j}-\frac{-8+10j}{-5-8j} = \frac{(9-6j)(2-1j)}{(2+1j)(2-1j)}-\frac{5-8j}{4+7j}*\frac{(8+3j)(3-5j)}{(8-3j)(8+3j)}-\frac{(8-10j)(5-8j)}{(5+8j)(5-8j)} = \frac{18-18j-9j+6j^2}{3} - \frac{(5-8j)(4-7j)}{(4+7j)(4-7j)}*\frac{24+9j-40j-15j^2}{73} - \frac{40-50j-64j+80j^2}{89} = 4-9j-\frac{20-32j-35j+56j^2}{65}*\frac{39-31j}{73}+\frac{40+114j}{89} = 4-9j+\frac{36+67j}{65}*\frac{39-31j}{73}+\frac{40+114j}{89}= 4-9j+\frac{1404+2613j-1116j-2077j^2}{65*73}+\frac{40+114j}{89} = 4-9j+\frac{3481+1496j}{4745}+\frac{40+114j}{89} = \frac{1689220-3800745j+309809+133144j+189800+540930j}{4745*89} = \frac{2188829}{422305}-\frac{3126671j}{422305}$
+
+|Нургалиев Тимур
+
+--------------------------------
+1
+--------------------------------
+ссылка на файл: https://drive.google.com/open?id=0ByF5aN1slvjlekhuVU9kUVJDZjA
+ссылка на график:  https://drive.google.com/open?id=0ByF5aN1slvjlYkZILXZPUTJhTDA                                         \section{22}
+$\frac{-2-7j}{-3+7j}+(\frac{9-10j}{6-10j})^{-1}*\frac{-4-7j}{-7-8j}-\frac{-6+1j}{-1+9j}=\frac{(-2-7j)(7j+3)}{49j^2-9}+\frac{(6-10j)(-4-7j)}{(9-10j)(-7-8j)}
+-\frac{(-6+1j)(9j+1)}{81j^2-1}=\frac{-14j-6+49-21j}{-58}+\frac{-24-42j+40j-70}{-63-72j+70j-80}-\frac{-54j-6-9+1j}{-82}=\frac{-35j+43}{-58}+\frac{-2j-94}{-2j-143}-
+\frac{-53j-15}{-82}=\frac{35j-43}{58}-\frac{2j+94}{2j+143}-\frac{53j+15}{82}=\frac{35j-43}{58}-\frac{(2j+94)(2j-143)}{4j^2-20449}-\frac{53j+15}{82}=
+\frac{35j-43}{58}-\frac{-4+188j-13443-286j}{-20453}-\frac{53j+15}{82}=\frac{35j-43}{58}-\frac{98j+13447}{20453}-\frac{53j+15}{82}=\frac{-4638492}{97274468}j-
+\frac{153865320}{97274468}=-\frac{39987}{838573}j-\frac{340410}{215209}$
+
+--------------------------------
+2
+--------------------------------
+ссылка: https://drive.google.com/open?id=0ByF5aN1slvjlRUMyUFptTjhpX0U                                                                             ссылка на график: https://drive.google.com/open?id=0ByF5aN1slvjleVMxbi14azZvSUU  
+\section{52}
+$\frac{-10-3j}{5-1j}-(\frac{-10+6j}{-4-1j})^{-1}*\frac{-6+9j}{-5+2j}-\frac{8-1j}{2+4j}=\frac{(-10-3j)(5+1j)}{25-j^2}-\frac{(-4-1j)(-6+9j)}{(-10+6j)(-5-2j)}
+-\frac{(8-1j)(2-4j)}{4-16j}=\frac{-50-10j-15j+3}{26}-\frac{24-36j+6j+9}{50+20j-30j+12}-\frac{16-32j-2j-4}{20}=
+\frac{-47-25j}{26}-\frac{33-30j}{62-10j}-\frac{12-34j}{20}=\frac{-47-25j}{26}-\frac{(33-30j)(62+10j)}{3844-100j^2}-\frac{12-34j}{20}=
+\frac{-47-25j}{26}-\frac{2076-1530j}{3944}+\frac{34j-12}{20}=\frac{2310096}{205880}j-\frac{6017408}{2050880}=\frac{8493}{7540}j-\frac{94022}{32045}$
+
+--------------------------------
+3
+--------------------------------
+ссылка: https://drive.google.com/open?id=0ByF5aN1slvjlcTMyZzZlb3E2OHM                                                                           ссылка на график: https://drive.google.com/open?id=0ByF5aN1slvjlTldMOVY2OGFURm8
+\section{82}
+$\frac{3+2j}{-10-9j}+(\frac{-7-5j}{-1+10j})^{-1}*\frac{5-10j}{-6-10j}-\frac{-4-2j}{6-4j}=\frac{(3+2j)(9j-10)}{-81j^2+100}+\frac{(-1+10j)(5-10j)}{(-7-5j)(-6-10j)}-
+\frac{(-4-2j)(6+4j)}{36-16j^2}=\frac{27h-18-20j-30}{181}+\frac{-5+10j+50j+100}{42+70j+30j-50}-\frac{-24-16j-12j+8}{52}=\frac{7j-48}{181}+\frac{60j+95}{100j-8}+
+\frac{28j+16}{52}=\frac{7j-48}{181}+\frac{(60j+95)(100j=8)}{10000j^2-64}+\frac{28j+16}{52}=\frac{7j-48}{181}-\frac{9980j-5240}{10064}+\frac{28j+16}{52}=
+-\frac{39264112}{94722368}j+\frac{53344480}{94722368}=-\frac{981603}{23680592}j+\frac{1667015}{2960074}$
+
+|Попелышко Аким
+
+--------------------------------
+1
+--------------------------------
+
+
+--------------------------------
+2
+--------------------------------
+
+
+--------------------------------
+3
+--------------------------------
+
+
+|Смирнов Михаил
+
+--------------------------------
+1
+--------------------------------
+PDF-файл задания: https://drive.google.com/open?id=0B-mgpZFWSe-Ka2YxenZTYlh1NWM
+Файл с коорд. плоскостью: https://drive.google.com/open?id=0B-mgpZFWSe-KQnNTZVpUVWs1Z2s
+---===========================---
+\documentclass{article}
+
+
+
+\usepackage[utf8]{inputenc}
+
+
+
+\usepackage[english]{babel}
+
+
+
+\begin{document}
+\section{Var 25}
+
+$\frac{7+2j}{-5-5j}+(\frac{-6+j}{-2+7j})^{-1}*\frac{9-2j}{6-8j}+\frac{2-5j}{6-6j}$
+$ $
+$1:\:\:\:\frac{7+2j}{-5-5j}=\frac{(7+2j)(-5+5j)}{25-25j^2}=\frac{-35-10j+35j+10j^2}{50}=\frac{-45+25j}{50}=\frac{-9+5j}{10}$
+$2:\:\:\:(\frac{-6+j}{-2+7j})^{-1}=\frac{-2+7j}{-6+j}=\frac{(-2+7j)(-6-j)}{36-j^2}=\frac{12-42j+2j-7j^2}{37}=\frac{19-40j}{37}$
+$3:\:\:\:\frac{9-2j}{6-8j}=\frac{(9-2j)(6+8j)}{36-64j^2}=\frac{54-12j+72j-16j^2}{100}=\frac{80+60j}{100}=\frac{4+3j}{5}$
+$4:\:\:\:\frac{2-5j}{6-6j}=\frac{(2-5j)(6+6j)}{36-36j^2}=\frac{12-30j+12j-30j^2}{72}=\frac{42-28j}{72}=\frac{21-14j}{36}$
+$ $
+$\frac{7+2j}{-5-5j}+(\frac{-6+j}{-2+7j})^{-1}*\frac{9-2j}{6-8j}+\frac{2-5j}{6-6j}=\frac{-9+5j}{10}+\frac{19-40j}{37}*\frac{4+3j}{5}+\frac{21-14j}{36}=\frac{-9+5j}{10}+\frac{76-160j+57j-120j^2}{185}+\frac{21-14j}{36}=\frac{-9+5j}{10}+\frac{196-103j}{185}+\frac{21-14j}{36}=\frac{-333+185j+392-206j}{370}+\frac{21-14j}{36}=\frac{59-21j}{370}+\frac{21-14j}{36}=\frac{1062-378j+3885-2590j}{6660}=\frac{4947-2968j}{6660}$
+\end{document}
+
+--------------------------------
+2
+--------------------------------
+PDF-файл задания: https://drive.google.com/open?id=0B-mgpZFWSe-KZlprWVVpNzY4b0U
+Файл с коорд. плоскостью: https://drive.google.com/open?id=0B-mgpZFWSe-KUVdVZ2lsRWtueUk
+---==========================---
+\documentclass{article}
+
+
+
+\usepackage[utf8]{inputenc}
+
+
+
+\usepackage[english]{babel}
+
+
+
+\begin{document}
+\section{Var 55}
+
+$\frac{-4-j}{9-6j}-(\frac{-6+8j}{-7+4j})^{-1}*\frac{-5-3j}{-7-2j}+\frac{10+4j}{9-7j}$
+$ $
+$1:\:\:\:\frac{-4-j}{9-6j}=\frac{(-4-j)(9+6j)}{81-36j^2}=\frac{-36-9j-24j-6j^2}{117}=\frac{-30-33j}{117}=\frac{-10-11j}{39}$
+$2:\:\:\:(\frac{-6+8j}{-7+4j})^{-1}=\frac{-7+4j}{-6+8j}=\frac{(-7+4j)(-6-8j)}{36-64j^2}=\frac{42-24j+56j-32j^2}{100}=\frac{74+32j}{100}=\frac{37+16j}{50}$
+$3:\:\:\:\frac{-5-3j}{-7-2j}=\frac{(-5-3j)(-7+2j)}{49-4j^2}=\frac{35+21j-10j-6j^2}{51}=\frac{41+11j}{51}$
+$4:\:\:\:\frac{10+4j}{9-7j}=\frac{(10+4j)(9+7j)}{81-49j^2}=\frac{90+36j+70j+28j^2}{130}=\frac{62+106j}{130}=\frac{31+53j}{65}$
+$ $
+$\frac{-4-j}{9-6j}-(\frac{-6+8j}{-7+4j})^{-1}*\frac{-5-3j}{-7-2j}+\frac{10+4j}{9-7j}=\frac{-10-11j}{39}-\frac{37+16j}{50}*\frac{41+11j}{51}+\frac{31+53j}{65}=\frac{-10-11j}{39}-\frac{1517+816j+407j+176j^2}{2550}+\frac{31+53j}{65}=\frac{-10-11j}{39}-\frac{1341+1023j}{2550}+\frac{31+53j}{65}=\frac{-8500-9350j-17433-13299j}{33150}+\frac{31+53j}{65}=\frac{-25933-22649j}{33150}+\frac{31+53j}{65}=\frac{-25933-22649j+15810+27030j}{33150}=\frac{-10123+4381j}{33150}$
+\end{document}
+
+--------------------------------
+3
+--------------------------------
+PDF-файл с заданием: https://drive.google.com/open?id=0B-mgpZFWSe-KUFJrcDdDcGdTUEE
+Файл с коорд. плоскостью: https://drive.google.com/open?id=0B-mgpZFWSe-KcFJHV3dlcjJOZjg
+---==========================---
+\documentclass{article}
+
+
+
+\usepackage[utf8]{inputenc}
+
+
+
+\usepackage[english]{babel}
+
+
+
+\begin{document}
+\section{Var 85}
+
+$\frac{-9+3j}{-9-6j}+(\frac{-5+7j}{-9+3j})^{-1}*\frac{-2-j}{-9+10j}-\frac{4+9j}{-9-3j}$
+$ $
+$1:\:\:\:\frac{-9+3j}{-9-6j}=\frac{(-9+3j)(-9+6j)}{81-36j^2}=\frac{81-27j-54j+18j^2}{117}=\frac{63-81j}{117}=\frac{21-27j}{37}$
+$2:\:\:\:(\frac{-5+7j}{-9+3j})^{-1}=\frac{-9+3j}{-5+7j}=\frac{(-9+3j)(-5-7j)}{25-49j^2}=\frac{45-15j+63j-21j^2}{74}=\frac{66+48j}{74}=\frac{33+24j}{37}$
+$3:\:\:\:\frac{-2-j}{-9+10j}=\frac{(-2-j)(-9-10j)}{81-100j^2}=\frac{18+9j+20j+10j^2}{181}=\frac{8+29j}{181}$
+$4:\:\:\:\frac{4+9j}{-9-3j}=\frac{(4+9j)(-9+3j)}{81-9j^2}=\frac{-36-81j+12j+27j^2}{90}=\frac{-63-63j}{90}=\frac{-7-7j}{10}$
+$ $
+$\frac{-9+3j}{-9-6j}+(\frac{-5+7j}{-9+3j})^{-1}*\frac{-2-j}{-9+10j}-\frac{4+9j}{-9-3j}=\frac{21-27j}{37}+\frac{33+24j}{37}*\frac{8+29j}{181}-\frac{-7-7j}{10}=\frac{21-27j}{37}+\frac{5973+4344j+296j+696j^2}{6697}-\frac{-7-7j}{10}=\frac{21-27j}{37}+\frac{5277+4640j}{6697}-\frac{-7-7j}{10}=\frac{3801-4887j+5277+4640j}{6697}-\frac{-7-7j}{10}=\frac{9078-247j}{6697}-\frac{-7-7j}{10}=\frac{90780-2470j-46879-46879j}{66970}=\frac{43901-49349j}{66970}$
+\end{document}
+
+|Ширшин Даниил
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+
+\section{26}
+
+$\frac{9-10j}{4-9j}+(\frac{-5+3j}{-1-9j})^-1*\frac{4+8j}{-8-6j}-\frac{-9-5j}{-10-8j}=$
+
+$=\frac{(9-10j)(4+9j)}{16-81j^2}+\frac{(-1-9j)(-5-3j)}{25-9j^2}*\frac{(4+8j)(-8+6j)}{64-36j^2}-\frac{(-9-5j)(-10+8j)}{100-64j^2}=$
+
+$=\frac{-90j^2+41j+36}{97}+\frac{27j^2+48j+5}{34}*\frac{48j^2-40j-32}{100}-\frac{40j^2-22j+90}{164}=$
+
+$=\frac{126+41j}{97}+\frac{48j-22}{34}*\frac{40j-80}{100}-\frac{50-22j}{164}=$
+
+$=\frac{126+41j}{97}+\frac{24j-11}{17}*\frac{2j-4}{5}-\frac{25-11j}{82}=$
+
+$=\frac{126+41j}{97}+\frac{48j^2-118j+44}{85}-\frac{25-11j}{82}=$
+
+$=\frac{126+41j}{97}+\frac{118j-4}{85}-\frac{25-11j}{82}=\frac{878220+285770j+938572j-31816-206125+90695j}{676090}=$
+$=\frac{640279+1315037j}{676090}$
+\end{document}https://www.dropbox.com/s/grnjbwj7y8x8gga/26.pdf?dl=0 
+
+--------------------------------
+2
+--------------------------------
+
+
+--------------------------------
+3
+--------------------------------
+
+

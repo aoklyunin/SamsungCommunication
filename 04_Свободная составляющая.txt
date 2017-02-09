@@ -1,0 +1,375 @@
+|Абдурахманов Рауль
+
+--------------------------------
+1
+--------------------------------
+
+
+|Бей Святослав
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english, russian]{babel}
+
+
+\begin{document}
+
+
+
+\section{1 задание}
+
+
+
+
+
+$1) W(p)=\frac{1}{p-2}$
+
+      $x=2$
+
+      $1.y_{cv}=C_{1}*e^{2t}$ 
+
+      
+      $2.y_{cv}(t)=C_{1}*e^{2t}$
+                  $OTBET$ $:y_{sv}(t)=C_{1}*e^{2t}$  
+
+ 
+\end{document}  картинка: https://drive.google.com/open?id=0B8vqgf4L2SD6SVQxMmpmQjlIWFU pdf:https://drive.google.com/open?id=0B8vqgf4L2SD6OGFwTmNIR2lscUk
+
+|Ведь Олеся
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english, russian]{babel}
+
+
+\begin{document}
+
+$W(p)=\frac{1}{p-2}$
+$x_{1}=2$ 
+$y_{c}=C_{1}e^{2t}$ 
+Ответ: $y_{c}=C_{1}e^{2t}$
+\end{document}} картинка https://drive.google.com/open?id=0B7KKz7Vep_hAYWYxTV9tMnlXZEE
+
+|Винникова Анна
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english, russian]{babel}
+
+
+\begin{document}
+
+$W(p)=\frac{1}{p-2}$
+$x_{1}=2$ 
+$y_{c}=C_{1}e^{2t}$ 
+Ответ: $y_{c}=C_{1}e^{2t}$
+\end{document}} картинка https://drive.google.com/file/d/0B7KKz7Vep_hAYWYxTV9tMnlXZEE/view
+
+|Грачев Иван
+
+--------------------------------
+1
+--------------------------------
+
+
+|Грек Полина
+
+--------------------------------
+1
+--------------------------------
+$W(p)=/frac{1}{p-2}$
+$x=2$
+$y_(св)(t)=C_1*e^(2*t)$
+Ответ:$y_1=C_1*e^(2*t)$
+
+|Димитров Благой
+
+--------------------------------
+1
+--------------------------------
+
+
+|Еремеев Иван
+
+--------------------------------
+1
+--------------------------------
+https://drive.google.com/open?id=0BwBDEKH2MHjNV3VFbHdmYkJVcm8
+
+|Звонов Даниил
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article} 
+\usepackage[utf8]{inputenc} 
+\usepackage[english, russian]{babel} 
+
+\begin{document} 
+$dano:W(p)=\frac{1}{p-2}$ 
+$x_{1}=2$
+$y_{1}=C_{1}e^{2t}$
+$y_{sv}=y_{1} $
+$y_{sv}=C_{1}e^{2t}$
+\end{document}   https://drive.google.com/file/d/0B2eI8FzrN3mbUlNMTHQ5YUs3azA/view?usp=sharing   https://drive.google.com/file/d/0B2eI8FzrN3mbcmxFcDc4NV9MdlU/view?usp=sharing
+
+|Златковский Марк
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english]{babel}
+
+\begin{document}
+
+\section{first task}
+
+$x_{1}=2$
+$y_{1}=c_{1}e^(2t)$
+$y_{sv}=y_{1}$
+$y_{sv}=c_{1}e^(2t)$
+\end{document}
+
+|Зорин Андрей
+
+--------------------------------
+1
+--------------------------------
+
+
+|Иванова Марианна
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\begin{document}
+\section{}
+
+
+
+$W(p)=\frac{1}{p-2}$
+$x_{1}=2$
+$y_{sv1}=C_{1}e^{2t}$
+$y_{sv}(t)=y_{sv1}=C_{1}e^{2t}$
+
+
+
+\end{document} картинка https://drive.google.com/open?id=0B7KKz7Vep_hAYWYxTV9tMnlXZEE файл https://drive.google.com/open?id=0B7KKz7Vep_hASTNuNXlTNmZHZ1k
+
+|Игнатьев Артур
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+
+\begin{document}
+
+\section{1}
+$W(p)= \frac{1}{p-2}$
+$x_{1}=2$
+$y_{cvi}=c_{i}e^{\alpha_{i}t}=c_{1}e^{2t}$
+
+
+\end{document}          https://drive.google.com/open?id=0B6tNqffiqlawcWY1LS1RNnpmSnc   https://drive.google.com/open?id=0B6tNqffiqlawbEV6QTBvRUFHV2M
+
+|Козар Илья
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english]{babel}
+\begin{document}
+
+
+
+
+$W(p) = \frac{1}{p-2}$
+
+
+
+$y_{sv}(t) = y_{sv1}(t) = c_{1}*e^{x_{i}*t}$
+
+
+
+$Find~x_{i}$
+
+
+
+$p-2 = 0;$
+
+
+
+$x_{i}=p=2;$
+
+
+$y_{sv}(t) = c_{1}*e^{2*t}$
+\end{document}  
+ https://www.dropbox.com/s/fy9zn4a42zwghcb/5.10%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81.png?dl=0 https://www.dropbox.com/s/yuigbcc0n0uhcry/Svobodniy1.pdf?dl=0
+
+|Котова Олеся
+
+--------------------------------
+1
+--------------------------------
+\begin{document}
+\section{1}
+$Wp=\frac{1}{p-2}$
+$x_{1}=2$
+$x_{i}=\alpha_{i}$
+$y_{sv}=C_{1}*e^{2t}$
+\end{document}                                                                                                                                                                                                                   https://drive.google.com/open?id=0B6tNqffiqlawZEU4Qy1oM0p6NU0                                                                                                                              https://drive.google.com/open?id=0B6tNqffiqlawcVVpbEo2SjdhVTQ
+
+|Лабес Алена
+
+--------------------------------
+1
+--------------------------------
+ \documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{}
+\begin{document}
+$W(p)=\frac{1}{p-2}$
+$x_i = a$
+$x_i = 2$
+$y_{free_1}(t) = C_{1}e^{2t}$
+\end{document}   https://drive.google.com/open?id=0B8WVbI5-UiwrNzJzdjIxby1pQmM   https://drive.google.com/open?id=0B8WVbI5-UiwrNTR4ZGtqTU9haWM
+
+|Мартыненко Анастасия
+
+--------------------------------
+1
+--------------------------------
+https://drive.google.com/open?id=0B_42MNOPBlHtYkFEM0UtazdQeWM\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+
+\begin{document}
+
+\section{}
+
+$W(p)=\frac{1}{p-2}$
+
+
+$x_{1}=2$
+
+
+$y_{sv1}=C_{1}e^{2t}$
+
+
+$y_{sv}(t)=y_{sv1}=C_{1}e^{2t}$
+
+\end{document}
+
+|Никитин Михаил
+
+--------------------------------
+1
+--------------------------------
+\begin{document}
+\section{1}
+
+$W(p)=\frac{1}{p-2}$
+
+$x_{1}=2$
+
+$y_{CB(t)}=C_{1}e^{2t}$
+
+
+\end{document}      http://wdfiles.ru/Lrw
+
+|Нургалиев Артём
+
+--------------------------------
+1
+--------------------------------
+ссылка:https://cloud.mail.ru/public/AEW2/7o5s4obw2   ссылка на картинку:https://cloud.mail.ru/public/GJe6/XFEKPxLh3                                                               \section{1}
+$W(p)=\frac{1}{p-2},y_{cv}=? $
+
+$x_{1}=2$
+
+$y_{cv1}=C_{1}e^{2t}$
+
+OTBET:$y_{cv1}=C_{1}e^{2t}$
+
+|Нургалиев Тимур
+
+--------------------------------
+1
+--------------------------------
+ссылка: https://drive.google.com/open?id=0BzykEyeTIMapWnkwSFdIVlF1Vzg                                                                           ссылка на график: https://drive.google.com/open?id=0BzykEyeTIMapOEZOXy1LdGZVbmM                                                   $W(p)=\frac{1}{p-2}$,  $y_{CB}(t)=?$.
+
+$x_{1}=2$
+
+$y_{CB1}=C_{1}e^{2t}$
+
+OTBET: $y_{CB1}=C_{1}e^{2t}$
+
+|Попелышко Аким
+
+--------------------------------
+1
+--------------------------------
+\section{akim}
+
+$W_{p}=\frac{1}{p-2}$
+
+$x_{1}=2$
+
+$y_{CB}(t)=y_{CB}(1)=C_{1}e^{2t}$
+https://drive.google.com/open?id=0B6NPtvUlQBxWSk9wdWpnalNiQ1E
+
+|Смирнов Михаил
+
+--------------------------------
+1
+--------------------------------
+PDF-файл: https://drive.google.com/open?id=0B-mgpZFWSe-KbU9hNlM0T0lrTnM
+
+|Ширшин Даниил
+
+--------------------------------
+1
+--------------------------------
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[english]{babel}
+
+\begin{document}
+$W(p)=\frac{1}{p-2}$
+$x_{1}=2$
+$y_{sv}=y_{1}=c_{1}e^{2t}$
+\end{document}https://www.dropbox.com/s/8dxxvm8979jd1ho/1%20%282%29.pdf?dl=0fpmx309f2q236/1.pdf?dl=0
+
